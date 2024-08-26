@@ -1,0 +1,12 @@
+{
+    "name": "My Pod",
+    "version": "1.0.0",
+    "description": "A description of my pod",
+    "author": "Your Name",
+    "repository": "https://github.com/yourusername/your-repo",
+    "license": "MIT",
+    "dependencies": {
+        "dependency1": "1.0.0",
+        "dependency2": "2.3.1"
+    }
+}
